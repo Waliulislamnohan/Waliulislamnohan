@@ -1,8 +1,8 @@
 
-[![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1800x500.jpg)](nkedin.com/in/md-waliul-islam-nohan/)
+[![MasterHead](https://i0.wp.com/www.jeremysmola.com/wp-content/uploads/2019/04/cropped-logo-javascript-logo-png-transparent-1.png?ssl=1)](nkedin.com/in/md-waliul-islam-nohan/)
 <h1 align="center">Hi 👋, I'm MD Waliul Islam Nohan</h1>
 <h3 align="center">Selftaught Software developer</h3>
-<img align="right" alt="Coding" width="250" src="https://media.istockphoto.com/id/1263794117/vector/office-worker-in-casual-clothes-sitting-at-desk-and-working-on-laptop-professional-office.jpg?s=612x612&w=0&k=20&c=8uAu52S-RhO4U7hyATShPrDypJKbkNl2dPOL3aFTv3k=">
+<img align="right" alt="Coding" width="150" src="https://www.shareicon.net/data/128x128/2016/01/16/704224_computer_512x512.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliulislamnohan&label=Profile%20views&color=0e75b6&style=flat" alt="waliulislamnohan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waliulislamnohan" alt="waliulislamnohan" /></a> </p>
