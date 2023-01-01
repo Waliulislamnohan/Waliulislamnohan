@@ -1,8 +1,8 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetflywheel.com%2Flayout%2Fbest-javascript-libraries-frameworks-2020%2F&psig=AOvVaw3qfqZNUenq-mSf59vd7Att&ust=1672671704514000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNix8ejRpvwCFQAAAAAdAAAAABAE)](nkedin.com/in/md-waliul-islam-nohan/)
+[![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1800x500.jpg)](nkedin.com/in/md-waliul-islam-nohan/)
 <h1 align="center">Hi 👋, I'm MD Waliul Islam Nohan</h1>
 <h3 align="center">Selftaught Software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3kgxqK4RxGaZ-xuOkr7Nma&ust=1672671550358000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiCsKDRpvwCFQAAAAAdAAAAABAS">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4754cfaf5bba1ruoqriw8vhvq6kofdpv7tcq02eu07&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliulislamnohan&label=Profile%20views&color=0e75b6&style=flat" alt="waliulislamnohan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waliulislamnohan" alt="waliulislamnohan" /></a> </p>
