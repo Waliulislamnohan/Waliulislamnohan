@@ -6,17 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliulislamnohan&label=Profile%20views&color=0e75b6&style=flat" alt="waliulislamnohan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waliulislamnohan" alt="waliulislamnohan" /></a> </p>
-- 🔭 I’m currently working on **Chaldal**
+- 🔭 "I have worked with esteemed organizations like **Chaldal and government entities in Bangladesh**, cultivating a rich background in the tech domain. My expertise extends across Fullstack technologies (NEXT.js, TypeScript, GraphQL, MERN, Redis, Flask, WASM), Microservices (Docker, IaaS, SaaS), and the implementation of AI models (Langchain, LAMA)."
 
-- 🌱 I’m currently learning **nextjs,Devops**
+- 🌱 Working Stack **Fullstack(NEXTjs,typescript,graphQL,MERN,Redis,flask, WASM) | Microservices (Docker, IaaS ,SaaS) | Ai model(long-chain,lama)**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-waliul-islam-nohan/](https://www.linkedin.com/in/md-waliul-islam-nohan/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN,NEXTJS,Microservices,Serverless,SAAS,PAAS**
 
-- 📫 How to reach me **waliulnohan@gmail.com**
+- 📫 How to reach me **waliulnohan@gmail.com** **https://waliulislamnohan.vercel.app/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://waliulislamnohan.vercel.app/</h3>
 <p align="left">
 <a href="https://dev.to/dev.nohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.nohan" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/waliulnohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/waliulnohan" height="30" width="40" /></a>
