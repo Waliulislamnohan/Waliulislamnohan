@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliulislamnohan&label=Profile%20views&color=0e75b6&style=flat" alt="waliulislamnohan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waliulislamnohan" alt="waliulislamnohan" /></a> </p>
-- 🔭 "I have worked with esteemed organizations like **Chaldal** and government entities in Bangladesh**, cultivating a rich background in the tech domain. My expertise extends across Fullstack technologies (NEXT.js, TypeScript, GraphQL, MERN, Redis, Flask, WASM), Microservices (Docker, IaaS, SaaS), and the implementation of AI models (Langchain, LAMA)."
+- 🔭 "I have worked with esteemed organizations like Chaldal and government entities in Bangladesh, cultivating a rich background in the tech domain. My expertise extends across Fullstack technologies (NEXT.js, TypeScript, GraphQL, MERN, Redis, Flask, WASM), Microservices (Docker, IaaS, SaaS), and the implementation of AI models (Langchain, LAMA)."
 
 - 🌱 Working Stack **Fullstack(NEXTjs,typescript,graphQL,MERN,Redis,flask, WASM) | Microservices (Docker, IaaS ,SaaS) | Ai model(long-chain,lama)**
 
