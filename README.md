@@ -1,12 +1,12 @@
 
 [![MasterHead](https://i0.wp.com/www.jeremysmola.com/wp-content/uploads/2019/04/cropped-logo-javascript-logo-png-transparent-1.png?ssl=1)](nkedin.com/in/md-waliul-islam-nohan/)
 <h1 align="center">Hi 👋, I'm MD Waliul Islam Nohan</h1>
-<h3 align="center">Selftaught Software developer</h3>
+<h3 align="center">Selftaught Software developer & solopreneur</h3>
 <img align="right" alt="Coding" width="150" src="https://www.shareicon.net/data/128x128/2016/01/16/704224_computer_512x512.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliulislamnohan&label=Profile%20views&color=0e75b6&style=flat" alt="waliulislamnohan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waliulislamnohan" alt="waliulislamnohan" /></a> </p>
-- 🔭 "I have worked with esteemed organizations like **Chaldal and government entities in Bangladesh**, cultivating a rich background in the tech domain. My expertise extends across Fullstack technologies (NEXT.js, TypeScript, GraphQL, MERN, Redis, Flask, WASM), Microservices (Docker, IaaS, SaaS), and the implementation of AI models (Langchain, LAMA)."
+- 🔭 "I have worked with esteemed organizations like **Chaldal** and government entities in Bangladesh**, cultivating a rich background in the tech domain. My expertise extends across Fullstack technologies (NEXT.js, TypeScript, GraphQL, MERN, Redis, Flask, WASM), Microservices (Docker, IaaS, SaaS), and the implementation of AI models (Langchain, LAMA)."
 
 - 🌱 Working Stack **Fullstack(NEXTjs,typescript,graphQL,MERN,Redis,flask, WASM) | Microservices (Docker, IaaS ,SaaS) | Ai model(long-chain,lama)**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **waliulnohan@gmail.com** **https://waliulislamnohan.vercel.app/**
 
-<h3 align="left">Connect with me: https://waliulislamnohan.vercel.app/</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.nohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.nohan" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/waliulnohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/waliulnohan" height="30" width="40" /></a>
